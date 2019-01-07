@@ -5,6 +5,7 @@
   </a>
 
   [![License](https://img.shields.io/badge/license-mit-blue.svg?longCache=true&style=for-the-badge)](https://github.com/tdemapp/assets/blob/master/LICENSE) 
+  [![gitmoji](https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?longCache=true&style=for-the-badge)](https://gitmoji.carloscuesta.me/) 
 
   <br />
 </div>
